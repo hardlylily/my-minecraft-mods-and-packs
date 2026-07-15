@@ -1,0 +1,25 @@
+[
+  {
+    "name": "default",
+    "entries": [
+      {
+        "state": "{Name:\"minecraft:deepslate_diamond_ore\"}",
+        "name": "Deepslate Diamond Ore",
+        "color": "#54baff",
+        "order": 1,
+        "isDefault": true,
+        "active": false
+      },
+      {
+        "state": "{Name:\"minecraft:iron_ore\"}",
+        "name": "Iron Ore",
+        "color": "#ffd0bb",
+        "order": 2,
+        "isDefault": true,
+        "active": true
+      }
+    ],
+    "order": 1,
+    "active": true
+  }
+]
