@@ -6,12 +6,12 @@ Click on the green "Code" button and then on "Download zip", extract and copy th
 If you're installing this to play on my server, shaders and resourcepacks are optional, as well as most mods
 
 List of required mods: 
-/n TRMT (The Roads More Travelled)
-Fabric API 
-Fabric Language Kotlin
-Silk
-Pandalib
-Falling Trees
-Veinminer and Veinminer enchantment
-WorldEdit
+TRMT (The Roads More Travelled),
+Fabric API,
+Fabric Language Kotlin,
+Silk,
+Pandalib,
+Falling Trees,
+Veinminer and Veinminer enchantment,
+WorldEdit,
 Architectury
